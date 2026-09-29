@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Visual Resume & Ambassador"
+description = "A recruiter-ready visual resume with curated proof points, project case studies, downloadable resume access, contact links, and a source-bounded virtual ambassador."
+version = "1.0.0"
+id = "artifacts/visual-resume"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24888
+
+[services.development]
+run = "pnpm --filter @workspace/visual-resume run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/visual-resume", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/visual-resume/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24888"
+BASE_PATH = "/"
