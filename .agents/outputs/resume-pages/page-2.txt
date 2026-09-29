@@ -1,0 +1,35 @@
+• Optimized infrastructure by authoring modular Ansible playbooks and Terraform configurations, collaborating with
+engineering teams to articulate deployment strategies and slash server provisioning time from hours to minutes
+for 50+ deployments.
+• Verified infrastructure automation correctness by maintaining version histories and simulation environments,
+achieving 99% accuracy in 20+ complex system deployments.
+Elite Softwares | Django Developer Intern
+Apr 2023 - Sep 2023
+• Programmed 12+ Python Django web application features using MVC architecture, mitigating system bugs by
+40% through systematic version-controlled debugging workflows.
+• Generated 8+ modular Python software components using Visual Studio and Git, presenting design
+documentation to team leads and advancing code maintainability by 20% through collaborative development
+workflows.
+PROJECTS
+Scalable Node.js App on AWS ECS/Fargate
+• Architected containerized deployment with Terraform, slashing infrastructure provisioning time by 40% and
+implementing automated CI/CD via GitHub Actions to accelerate release cycles.
+Healthcare Application CI/CD Deployment
+• Designed end-to-end CI/CD pipeline with automated testing and real-time monitoring; enforced correctness
+through Prometheus/Grafana alerting and simulation-based validation.
+Containerized Zomato Clone (Microservices)
+• Automated CI/CD pipelines by embedding SonarQube and OWASP dependency scanning, collaborating with
+stakeholders to curtail security vulnerabilities by 25% and presenting improved code quality standards.
+Waste Management System using IOT
+• Constructed an IoT-enabled Waste Management System with real-time monitoring and automated disposal alerts,
+mitigating overflow and supporting smart city initiatives with a scalable, 20% operational cost-reduction solution.
+3D Modeling of X-Ray Images using Virtual Reality
+• Constructed a 3D model of knee bones from X-rays using Canny edge detection and integrated VR technology,
+augmenting bone implantation accuracy and refining diagnostic precision over CT scans.
+CERTIFICATIONS & ACHIEVEMENTS
+• Microsoft Azure Fundamentals - AZ900 - Microsoft
+• AWS - Cloud Foundation - AWS
+• NDG - Linux Essentials and Unhatched - NDG
+• CPA: Programming Essentials in C++ - Unknown
+• PCPA: Programming Essentials in Python - Unknown
+• IIT Bombay Spoken - Java, CPP, C, and Python - IIT Bombay

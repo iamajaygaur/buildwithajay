@@ -1,0 +1,52 @@
+Ajay Gaur
+Denver, Colorado, United States | iamajaygaurx@gmail.com | (303) 437-9446 | github.com/iamajaygaur | linkedin.com/in/iamajaygaur
+PROFESSIONAL SUMMARY
+Software Engineer and M.S. Computer Science student at CU Denver with experience in Python development,
+automation, statistical algorithms, and CI/CD practices. Skilled in building modular applications, implementing test-
+driven development with 90%+ unit test coverage, and collaborating in Agile environments. Strong foundation in
+software design, version control, and cloud-native development, with a focus on delivering scalable and reliable
+solutions.
+EDUCATION
+University of Colorado Denver
+Aug 2025 - May 2027
+Master of Science, Computer Science
+GPA: 3.45
+RMD Sinhgad School of Engineering
+Jun 2020 - Jul 2023
+Bachelor of Engineering, Computer Engineering
+GPA: 8.8/10
+SKILLS
+Programming Languages: Python, R, Java, C/C++, JavaScript, Bash, SQL
+Frameworks & Libraries: Django, Spring Boot, React, NumPy, Pandas
+Databases: PostgreSQL, MySQL, MongoDB
+Tools & Software: Git, GitHub, Visual Studio
+DevOps & Cloud Infrastructure: AWS, EC2, S3, ECS/Fargate, EKS, Docker, Kubernetes, Terraform, Ansible,
+Jenkins, GitHub Actions, Continuous Integration
+Soft Skills: Agile
+WORK EXPERIENCE
+CU Denver – College of Engineering, Design, and Computing | Graduate Reserach Assistant |
+Denver, Colorado
+May 2026 -
+• Built a full-stack equipment rental application for the Dean's Office enabling staff and students to request
+equipment, track inventory in real time, and route requests through an automated admin approval workflow with
+email notifications and am now leading development of a judging platform for the Senior Design Capstone Expo
+to support project scoring, submission tracking, and smooth Expo-day operations.
+• Building data analysis and reporting capabilities across both platforms, giving the Dean's office clear visibility into
+rental demand, judging outcomes, and process bottlenecks to support data-driven decisions.
+CU Denver – College of Engineering, Design, and Computing | Student Assistant II
+Oct 2025 - Present
+• Architected automation scripts and maintained departmental computing infrastructure for 10+ faculty research
+labs, boosting operational efficiency by 25% using Python and DevOps practices.
+• Collaborated with engineering faculty to deliver 5+ research-oriented software projects, producing technical
+documentation that reduced project onboarding time by 30%.
+Concentrix | Technical IT Support Engineer
+Feb 2025 - Jul 2025
+• Programmed Python and Bash/PowerShell automation scripts supporting 10,000+ enterprise users, facilitating
+status updates to management and curtailing incident resolution time by 60% while enhancing SLA adherence.
+• Validated deployment scripts through iterative testing and QA principles, facilitating technical reviews with
+stakeholders and diminishing manual intervention by 70% across 15+ production rollouts.
+Thinking Hut IT Solutions | DevOps Trainee
+Sep 2023 - Oct 2024
+• Built and administered CI/CD pipelines (Jenkins, GitHub Actions) with full test integration, presenting validation
+reports to stakeholders; implemented regression and integration tests, articulating results to engineering leads
+and cutting environment errors by 25%.
